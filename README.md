@@ -1,9 +1,9 @@
-Olá bem vindo
+<h1>Olá bem vindo</h1>
 
+<h2>Ao abrir, no terminal dentro da pasta digite</h2>
 
+`npm install`
 
-Ao abrir, no terminal dentro da pasta digite 'npm install'
+<h2>Em seguida digite</h2>
 
-
-
-Em seguida digite 'npm run dev'
+`npm run dev`
